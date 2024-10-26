@@ -1,0 +1,87 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio cache files
+.vs/
+.vscode/
+
+# Log files
+*.log
+
+# ASP.NET temporary files
+aspnetcore-*
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/build/legacy/
+!**/packages/repositories.config
+
+# Visual Studio backups
+*.[Ss]uo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Publish output
+publish/
+
+# Environment variables
+.env
+
+# Test Results
+TestResults/
+*.trx
+
+# Coverlet coverage
+coverage.cobertura.xml
+coverage.opencover.xml
+coverage.json
+coverage.xml
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+*.deps.json
+*.db
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Mac system files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Other files to ignore
+*.pdb
+*.mdb
+*.db
+*.cache
+*.tmp
+*.temp
+
+# Ignore backup files
+*~
